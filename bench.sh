@@ -4,8 +4,8 @@
 # Kieker benchmark script with JoularJX energy measurement
 #
 # Usage: 
-#   ./benchmark3.sh          (works on macOS and Linux)
-#   sudo ./benchmark3.sh      (recommended on Linux for accurate energy measurement)
+#   ./bench.sh          (works on macOS and Linux)
+#   sudo ./bench.sh      (recommended on Linux for accurate energy measurement)
 #
 # Note: On Linux, sudo is recommended for JoularJX to access RAPL power sensors.
 #       On macOS, JoularJX may prompt for password to access powermetrics.
